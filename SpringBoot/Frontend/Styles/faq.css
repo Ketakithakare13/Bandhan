@@ -1,0 +1,32 @@
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+
+.faq-accordion .accordion {
+  background-color: #f0f0f0; 
+  color: #eeecec; 
+  border: 1px solid #ccc; 
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.faq-accordion .accordion:not(.collapsed) {
+  background-color: #dcdcdc; 
+  color: #333; 
+}
+
+.faq-accordion .accordion-body {
+  background-color: #f9f9f9; 
+  color: #101010; 
+  font-size: 1rem;
+}
+
+
+.faq-accordion .accordion-item {
+  border: 1px solid #ddd; 
+}
