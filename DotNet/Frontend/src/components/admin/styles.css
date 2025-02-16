@@ -1,0 +1,49 @@
+.list-group a:hover{
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
+
+/* Center the Users component vertically */
+.users-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  padding: 20px;
+}
+
+/* Change the color of the Users heading to white */
+.users-heading {
+  color: white;
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
+
+/* Remove the default padding from the table cells to reduce space between columns */
+.users-table th, .users-table td {
+  padding-left: 25px;  /* Adjust left padding to reduce space */
+  padding-right: 5px; /* Adjust right padding to reduce space */
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+/* Optional: Reduce the space between rows */
+.users-table tbody tr {
+  height: 35px; /* Adjust row height if needed */
+}
+
+/* Remove spacing between columns */
+.users-table {
+  border-spacing: 0;
+  width: 100%; /* Ensure the table takes up full width */
+}
+
+
+.users-table th, .users-table td {
+  white-space: nowrap; 
+}
+
+.btn{
+  color: violet;
+}

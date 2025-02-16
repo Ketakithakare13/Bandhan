@@ -1,0 +1,58 @@
+
+.story-card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+  }
+  
+  
+  .story-card img {
+    width: 100%; 
+    height: 400px; 
+    object-fit: cover; 
+    transition: transform 0.3s ease-in-out; 
+  }
+  
+  
+  .story-card:hover img {
+    transform: scale(1.1);
+  }
+  
+  .story-card .card-body {
+    position: absolute;
+    top: -100%; 
+    left: 0;
+    right: 0;
+    bottom: 0; 
+    background: rgba(0, 0, 0, 0.5); 
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    opacity: 0; 
+    transition: top 0.5s ease, opacity 0.3s ease-in-out;
+    border-radius: 10px; 
+  }
+  
+ 
+  .story-card:hover .card-body {
+    top: 0; 
+    opacity: 1; 
+  }
+  
+  .story-card .card-body h5,
+  .story-card .card-body p {
+    margin-bottom: 10px;
+    text-align: center; 
+  }
+  
+  .story-card .card-title {
+    color: #e0087b;
+    transition: background-color 0.3s ease;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: #e0087b 2px 0px;
+  }
+  

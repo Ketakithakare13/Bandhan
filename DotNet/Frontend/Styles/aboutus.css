@@ -1,0 +1,150 @@
+.about-us {
+    font-family: 'Playfair Display', serif;
+    line-height: 1.6;
+    background: linear-gradient(to bottom, #fdfcfb, #e2d1c3);
+    padding: 20px;
+  }
+  
+  .about-hero {
+    text-align: center;
+    padding: 50px 20px;
+    color: #ff5722;
+  }
+  
+  .about-hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .about-hero p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .about-section {
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .about-section h2 {
+    font-size: 2rem;
+    color: #ff5722;
+  }
+  
+  .about-section p {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  .about-highlights {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 40px 0;
+  }
+
+  .about-highlights i{
+    font-size: 40px;
+    color: #ff5722;
+  } 
+  
+  .highlight {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 250px;
+  }
+  
+  .highlight img {
+    width: 80px;
+    margin-bottom: 10px;
+  }
+  
+  .highlight h3 {
+    color: #ff5722;
+    margin: 10px 0;
+  }
+  
+  .highlight p {
+    color: #666;
+  }
+  
+  .about-team {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #fff;
+  }
+  
+  .about-team h2 {
+    color: #ff5722;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .team-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .team-member {
+    background: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .team-member img {
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .team-member h4 {
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .team-member p {
+    color: #777;
+  }
+  
+  .about-footer {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(to bottom, #ffccbc, #ff5722);
+    color: #fff;
+  }
+  
+  .about-footer h2 {
+    font-size: 2.5rem;
+  }
+  
+  .about-footer p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  
+  .cta-button {
+    background: #fff;
+    color: #ff5722;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s;
+  }
+  
+  .cta-button:hover {
+    background: #ffe0b2;
+  }
+  

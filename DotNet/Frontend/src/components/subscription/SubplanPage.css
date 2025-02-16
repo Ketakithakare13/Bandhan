@@ -1,0 +1,77 @@
+
+.subplan-page {
+  background-color: #fff8e1; 
+}
+
+.subplan-container {
+  text-align: center;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa; 
+  padding: 30px;
+  border-radius: 8px;
+}
+
+
+.subscription-options {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+
+.subscription-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  width: 200px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #fff3e0; 
+}
+
+.subscription-card h2 {
+  margin-bottom: 10px;
+}
+
+.subscription-card p {
+  margin-bottom: 20px;
+}
+
+.subscription-card button {
+  background-color: #ff5e62; 
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.subscription-card button:hover {
+  background-color: #ff5722; 
+}
+
+
+.success-message {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.success-message p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.success-message button {
+  background-color: #4caf50; 
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  border-radius: 4px;
+}
+
+.success-message button:hover {
+  background-color: #45a049; 
+}
