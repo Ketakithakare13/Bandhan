@@ -1,0 +1,6 @@
+@Bandhan_HostAddress = http://localhost:5163
+
+GET {{Bandhan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

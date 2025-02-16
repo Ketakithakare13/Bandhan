@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "IN8AYOMcb7fjSljdBn8it7ckzM5v0ZfcfJxdJtEZODQ=",
+  "Source": "Bandhan",
+  "BasePath": "_content/Bandhan",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bandhan\\wwwroot",
+      "Source": "Bandhan",
+      "ContentRoot": "C:\\Dac\\Project\\Bandhan_Dotnet\\Bandhan_backend\\Bandhan\\Bandhan\\wwwroot\\",
+      "BasePath": "_content/Bandhan",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,543 @@
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\appsettings.Development.json
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\appsettings.json
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.staticwebassets.endpoints.json
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.exe
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.deps.json
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.runtimeconfig.json
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.pdb
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Humanizer.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\System.CodeDom.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.AssemblyReference.cache
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.AssemblyInfoInputs.cache
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.AssemblyInfo.cs
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.CoreCompileInputs.cache
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.MvcApplicationPartsAssemblyInfo.cs
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.MvcApplicationPartsAssemblyInfo.cache
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\scopedcss\bundle\Bandhan.styles.css
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.build.json
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.development.json
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.Bandhan.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.Bandhan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.build.Bandhan.props
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Bandhan.props
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Bandhan.props
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.pack.json
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.Up2Date
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\refint\Bandhan.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.pdb
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.genruntimeconfig.cache
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\obj\Debug\net9.0\ref\Bandhan.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\MySqlConnector.dll
+D:\C-DAC\Cdac Project\Dotnet\Bandhan\Bandhan\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\appsettings.Development.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\appsettings.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.staticwebassets.endpoints.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.exe
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.deps.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.runtimeconfig.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.pdb
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Humanizer.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\MySqlConnector.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.CodeDom.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.AssemblyReference.cache
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.AssemblyInfoInputs.cache
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.AssemblyInfo.cs
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.CoreCompileInputs.cache
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.MvcApplicationPartsAssemblyInfo.cs
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.MvcApplicationPartsAssemblyInfo.cache
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\scopedcss\bundle\Bandhan.styles.css
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.development.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.Bandhan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.Bandhan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.build.Bandhan.props
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Bandhan.props
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Bandhan.props
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.Up2Date
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\refint\Bandhan.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.pdb
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.genruntimeconfig.cache
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\ref\Bandhan.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.staticwebassets.runtime.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\refint\Bandhan.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.pdb
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.AssemblyReference.cache
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.AssemblyInfoInputs.cache
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.AssemblyInfo.cs
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\appsettings.json
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.staticwebassets.runtime.json
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.staticwebassets.endpoints.json
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.exe
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.deps.json
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.runtimeconfig.json
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.pdb
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\scopedcss\bundle\Bandhan.styles.css
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.Bandhan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.Bandhan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.build.Bandhan.props
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Bandhan.props
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Bandhan.props
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.Up2Date
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.genruntimeconfig.cache
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\ref\Bandhan.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\System.Net.Http.Json.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\AWSSDK.S3.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\itext.barcodes.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\itext.forms.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\itext.io.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\itext.kernel.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\itext.layout.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\itext.pdfa.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\itext.sign.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\itext.styledxmlparser.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\itext.svg.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\itext.commons.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\MailKit.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\MimeKit.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+C:\Users\Aditya\Downloads\Bandhan (2) (1)\Bandhan\Bandhan\Bandhan\bin\Debug\net9.0\Twilio.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\appsettings.Development.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.staticwebassets.endpoints.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\appsettings.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.staticwebassets.runtime.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.exe
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.deps.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.runtimeconfig.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Bandhan.pdb
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\AWSSDK.S3.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Humanizer.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\itext.barcodes.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\itext.forms.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\itext.io.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\itext.kernel.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\itext.layout.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\itext.pdfa.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\itext.sign.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\itext.styledxmlparser.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\itext.svg.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\itext.commons.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\MailKit.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\MimeKit.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\MySqlConnector.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\System.CodeDom.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\System.Net.Http.Json.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\Twilio.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.AssemblyReference.cache
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.AssemblyInfoInputs.cache
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.AssemblyInfo.cs
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.CoreCompileInputs.cache
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.MvcApplicationPartsAssemblyInfo.cs
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.MvcApplicationPartsAssemblyInfo.cache
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\scopedcss\bundle\Bandhan.styles.css
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.development.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.Bandhan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.Bandhan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.build.Bandhan.props
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Bandhan.props
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Bandhan.props
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.csproj.Up2Date
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\refint\Bandhan.dll
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.pdb
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\Bandhan.genruntimeconfig.cache
+C:\Dac\Project\Bandhan_Dotnet\Bandhan_backend\Bandhan\Bandhan\obj\Debug\net9.0\ref\Bandhan.dll
